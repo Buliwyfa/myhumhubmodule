@@ -1,0 +1,9 @@
+{
+    "id": "mfm-widget",
+    "name": "My Second Module",
+    "description": "Advanced concepts explored",
+    "keywords": [
+        "core"
+    ],
+    "version": "1.0"
+}
